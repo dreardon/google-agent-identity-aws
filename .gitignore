@@ -1,0 +1,7 @@
+.adk/
+__pycache__/
+
+.env
+.DS_Store
+
+notes.txt

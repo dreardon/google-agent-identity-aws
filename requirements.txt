@@ -1,0 +1,3 @@
+google-cloud-aiplatform[agent_engines,adk]==1.151.0
+google-adk[agent-identity]==1.32.0
+boto3==1.43.51
