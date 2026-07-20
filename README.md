@@ -38,7 +38,6 @@ sequenceDiagram
 ```
 .
 ├── deploy.py                  # Script to deploy/update the agent to Vertex AI Agent Runtime
-├── notes.txt                  # Configuration variables & AWS IAM Policy reference
 ├── requirements.txt           # Python dependencies for the agent container
 └── token_agent/
     ├── __init__.py            # Module entry point exporting `app`
