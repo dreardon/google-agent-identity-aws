@@ -1,4 +1,4 @@
-# Agent Identity Token Exchange: GCP Agent Engine to AWS S3
+# Agent Identity Token Exchange: GCP Agent Runtime to AWS S3
 
 This repository demonstrates how an agent built with the **Google Agent Development Kit (ADK)** and deployed to **Gemini Enterprise Agent Runtime** can use **GCP Agent Identity** to securely authenticate across cloud providers.
 
